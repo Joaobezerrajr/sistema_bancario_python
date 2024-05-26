@@ -140,7 +140,7 @@ def main():
             
             if conta:
                 contas.append(conta)  
-                 
+                    
         elif opcao == "lc":
             listar_contas(contas)
 
